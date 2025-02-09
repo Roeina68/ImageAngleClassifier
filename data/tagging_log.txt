@@ -2193,3 +2193,7 @@ Percentages: Horizontal: 100.00%, Diagonal: 0.00%, Vertical: 0.00%
 2025-02-09 19:12:21.365408: Roei has stopped labeling session
 Total images labeled: 0, Horizontal: 0, Diagonal: 0, Vertical: 0
 Percentages: No images labeled during this session.
+2025-02-09 19:51:09.294815: Roei has started labeling session
+2025-02-09 19:51:14.321587: Roei has stopped labeling session
+Total images labeled: 0, Horizontal: 0, Diagonal: 0, Vertical: 0
+Percentages: No images labeled during this session.

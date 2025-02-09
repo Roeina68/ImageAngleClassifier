@@ -43,7 +43,7 @@ def get_all_images(base_dir):
                 image_files.append(os.path.join(root, file))
     return image_files
 
-
+#  Load image to UI
 def load_image():
     global current_index, img_label
     if current_index >= len(images):
@@ -64,7 +64,7 @@ def load_image():
     img_label.config(image=img_tk)
     img_label.image = img_tk
 
-
+#  Tag (and resize )image to its class directory
 def tag_image(category):
     global current_index
     img_path = images[current_index]
@@ -97,7 +97,7 @@ def tag_image(category):
     current_index += 1
     load_image()
 
-
+#  Stop labeling process and close program (writes to log)
 def stop_labeling():
     totalLabels = sum(taggedNum)
     log_entries.append(f"{datetime.datetime.now()}: {labeler_name} has stopped labeling session\n")
@@ -116,7 +116,7 @@ def stop_labeling():
     root.quit()
     exit()
 
-
+#  Set labeler for logs
 def set_labeler(name):
     global labeler_name
     labeler_name = name
@@ -126,7 +126,7 @@ def set_labeler(name):
     root.deiconify()  # Show the main window after selecting labeler
     load_image()  # Start loading images
 
-
+#  Calc angle by manual distances
 def calculate_tilt():
     try:
         distance = float(distance_entry.get())
