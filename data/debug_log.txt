@@ -170,3 +170,53 @@ Percentages: No images labeled during this session.
 2025-02-09 19:11:38.302331: Roei has stopped labeling session
 Total images labeled: 3, Horizontal: 1, Diagonal: 2, Vertical: 0
 Percentages: Horizontal: 33.33%, Diagonal: 66.67%, Vertical: 0.00%
+2025-02-10 10:20:13.502322: Roei has started labeling session
+2025-02-10 10:20:15.914094: Roei tagged 0000220_02000_d_0000006.jpg -> diagonal
+2025-02-10 10:20:16.651425: Roei tagged 0000220_02500_d_0000007.jpg -> diagonal
+2025-02-10 10:20:20.893662: Roei has stopped labeling session
+Total images labeled: 2, Horizontal: 0, Diagonal: 2, Vertical: 0
+Percentages: Horizontal: 0.00%, Diagonal: 100.00%, Vertical: 0.00%
+2025-02-11 13:30:12.010945: Roei has started labeling session
+2025-02-11 13:30:18.562548: Roei tagged 0000236_00427_d_0000002.jpg -> vertical
+2025-02-11 13:30:20.049416: Roei tagged 0000236_00811_d_0000003.jpg -> diagonal
+2025-02-11 13:30:21.177648: Roei has stopped labeling session
+Total images labeled: 2, Horizontal: 0, Diagonal: 1, Vertical: 1
+Percentages: Horizontal: 0.00%, Diagonal: 50.00%, Vertical: 50.00%
+2025-02-11 13:33:27.032712: Roei has started labeling session
+2025-02-11 13:33:29.534616: Roei has stopped labeling session
+Total images labeled: 0, Horizontal: 0, Diagonal: 0, Vertical: 0
+Percentages: No images labeled during this session.
+2025-02-11 13:36:59.190998: Roei has started labeling session
+2025-02-11 13:37:28.196286: Roei tagged 0000239_01172_d_0000004.jpg -> vertical
+2025-02-11 13:37:29.800651: Roei tagged 0000239_01588_d_0000005.jpg -> vertical
+2025-02-11 13:37:31.204776: Roei tagged 0000239_02003_d_0000006.jpg -> diagonal
+2025-02-11 13:37:55.238800: Roei tagged 0000239_02139_d_0000007.jpg -> vertical
+2025-02-11 13:37:56.836937: Roei tagged 0000239_02531_d_0000008.jpg -> diagonal
+2025-02-11 13:37:59.143344: Roei tagged 0000239_02899_d_0000009.jpg -> vertical
+2025-02-11 13:38:02.744147: Roei tagged 0000239_03333_d_0000010.jpg -> diagonal
+2025-02-11 13:38:04.585874: Roei tagged 0000239_03837_d_0000011.jpg -> vertical
+2025-02-11 13:38:07.237839: Roei tagged 0000239_04052_d_0000012.jpg -> vertical
+2025-02-11 13:38:10.132548: Roei tagged 0000239_04503_d_0000013.jpg -> diagonal
+2025-02-11 13:38:11.368620: Roei tagged 0000239_04995_d_0000014.jpg -> vertical
+2025-02-11 13:38:12.657918: Roei tagged 0000239_05475_d_0000015.jpg -> vertical
+2025-02-11 13:38:14.390860: Roei tagged 0000239_05950_d_0000016.jpg -> diagonal
+2025-02-11 13:38:16.197990: Roei tagged 0000239_06450_d_0000017.jpg -> diagonal
+2025-02-11 13:38:18.085491: Roei tagged 0000239_06950_d_0000018.jpg -> diagonal
+2025-02-11 13:38:19.538132: Roei tagged 0000239_07259_d_0000019.jpg -> diagonal
+2025-02-11 13:38:21.100677: Roei tagged 0000239_07435_d_0000020.jpg -> diagonal
+2025-02-11 13:38:22.389946: Roei tagged 0000239_07930_d_0000021.jpg -> diagonal
+2025-02-11 13:39:07.818340: Roei has stopped labeling session
+Total images labeled: 18, Horizontal: 0, Diagonal: 10, Vertical: 8
+Percentages: Horizontal: 0.00%, Diagonal: 55.56%, Vertical: 44.44%
+2025-02-11 20:02:00.014540: Roei has started labeling session
+2025-02-11 20:30:35.154642: Roei tagged 0000264_00001_d_0000194.jpg -> diagonal
+2025-02-11 20:30:40.886071: Roei tagged 0000264_00201_d_0000195.jpg -> diagonal
+2025-02-11 20:30:41.544430: Roei tagged 0000264_00401_d_0000196.jpg -> diagonal
+2025-02-11 20:30:42.043219: Roei tagged 0000264_00601_d_0000197.jpg -> diagonal
+2025-02-11 20:30:42.663848: Roei tagged 0000264_00801_d_0000198.jpg -> diagonal
+2025-02-11 20:30:43.402103: Roei tagged 0000264_01001_d_0000199.jpg -> diagonal
+2025-02-11 20:30:44.558029: Roei tagged 0000264_01201_d_0000200.jpg -> vertical
+2025-02-11 20:30:45.808265: Roei tagged 0000264_01401_d_0000201.jpg -> diagonal
+2025-02-11 20:34:04.753918: Roei has stopped labeling session
+Total images labeled: 8, Horizontal: 0, Diagonal: 7, Vertical: 1
+Percentages: Horizontal: 0.00%, Diagonal: 87.50%, Vertical: 12.50%
